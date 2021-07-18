@@ -40,6 +40,13 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/18/2021 ** !! See chronology of changes below...
+# Update: !!!!!!!!!! - MEMBERSHIP EXCLUSIVES and perks are COMING SOON with a monthly membership via Buy Me A Coffee. Stay tuned!
+# Update: 07/17/2021 - CATEGORY MAINTENANCE: Slight update to EPG info in "Binge TV | AMC Networks" to work better with xml sources.
+# Update: 07/17/2021 - NOTE: "Binge TV | AMC Networks" uses the new EPG source: https://i.mjh.nz/Plex/all.xml
+# Update: 07/17/2021 - NOTE: The new EPG source for PLEX is in effect now for select categories, full UPDATE to PLEX in next update.
+# Update: 07/12/2021 - CATEGORY UPDATED: Completely updated "Local Now", Version 2.9 updated from a playlist by @lrm5000 on Discord. 
+# Update: 07/12/2021 - CATEGORY DELETED: Deleted "Distro TV" category (too many dead streams). Updated category will come back soon.
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/07/2021 ** !! See chronology of changes below...
 # Update: !!!!!!!!!! - !! "Info | Free2View TV" updated info on all EPG sources, URL's shown for direct info to links.
 # Update: 07/04/2021 - CATEGORY MAINTENANCE: Cleaned up "Binge TV | AMC Networks", matched up some EPG sources to correct feeds.
