@@ -40,6 +40,19 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/01/2021 ** !! See chronology of changes below...
+# Update: !!!!!!!!!! - MEMBERSHIP EXCLUSIVES and perks are COMING SOON with a monthly membership via Buy Me A Coffee. Stay tuned!
+# Update: !!!!!!!!!! - !! "Info | Free2View TV" - Plex group removed until further notice. Streamlining category, locating new sources.
+# Update: 08/01/2021 - EPG CHANGES: PBS EPG has changed: [2] https://i.mjh.nz/PBS/all.xml << change the 'epg.xml' to 'all.xml'
+# Update: 08/01/2021 - EPG CHANGES: [5] https://i.mjh.nz/Plex/all.xml (AS OF 8/01/21) << change the end part to 'all.xml'
+# Update: 08/01/2021 - EPG CHANGES: [6] https://i.mjh.nz/Stirr/all.xml (CHANGED 8/01/21) << change the end part to 'all.xml'
+# Update: 08/01/2021 - EPG CHANGES: [8] https://i.mjh.nz/SamsungTVPlus/all.xml (CHANGED 8/01/21) << change the end part to 'all.xml'
+# Update: 08/01/2021 - EPG CHANGES: [9] https://i.mjh.nz/PlutoTV/all.xml (CHANGED 8/01/21) << change the end part to 'all.xml'
+# Update: 08/01/2021 - CATEGORY DELETED: Until further notice, removed Plex with EPG; streamlining category and locating new sources.
+# Update: 08/01/2021 - CHANNELS DELETED: Removed Jack Hanna Channel, Xplore due to risk of DMCA takedown orders. 
+# Update: 08/01/2021 - NEW CHANNELS ADDED: "Nostalgia Flix" category streams updated. Added Classic Reels TV, Pub-D-Hub Channel.
+# Update: 08/01/2021 - NEW CHANNEL: Added the free movies channel Red1 TV in "Nostalgia Flix", courtesy of our friends at BluLink TV.
+# Update: 08/01/2021 - MINOR CATEGORY MAINTENANCE: Updated EPG tags in "Binge TV | AMC Networks" category.
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/18/2021 ** !! See chronology of changes below...
 # Update: !!!!!!!!!! - MEMBERSHIP EXCLUSIVES and perks are COMING SOON with a monthly membership via Buy Me A Coffee. Stay tuned!
 # Update: 07/17/2021 - CATEGORY MAINTENANCE: Slight update to EPG info in "Binge TV | AMC Networks" to work better with xml sources.
