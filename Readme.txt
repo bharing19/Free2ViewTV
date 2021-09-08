@@ -1,7 +1,6 @@
-Heads up everyone!
-Revisions are coming!
+Heads up everyone! The new REVISED edition of the Free2View TV Project's Streaming TV Playlist is here!!
 
-As you can see I have not really updated the playlist in a while, that's because I have been busy revising the Free2View TV Playlist for 2021!! I know, it's September, and it is LATE 2021! lol, better late than never.
+I have been busy revising the Free2View TV Playlist for 2021!! I know, it's September, and it is LATE 2021! lol, better late than never.
 
 Here are the new URL's for the Free2View TV Project's Streaming TV Playlists: 
 
@@ -29,6 +28,8 @@ The OLD m3u documents will be updated with the new revised playlist and I will k
 
 *** PLEASE NOTE *** 
 Still working on migrating all the channels from the previous list to this revised version. I wanted to make sure that the new version's template was out there so that it can be built upon. The biggest criticisms was that there was too many categories, so a lot of channels can be incorporated into pre-existing groups and I wanted to get the basic framework done. This is the result of the work.
+
+All previous Github versions of the playlist will be updated with the new revisions and the documents will remain live for a while longer, but I urge everyone to update their players with the new URL's. Those using Perfect Player, you can get an updated Backup file with all the new revisions on the home-base of the Free2View TV Project, our blog page here: https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
 
 If there are any of your channels that are missing, open up an Issue in our github and I will get to it ASAP
 https://github.com/geonsey/Free2ViewTV/issues
