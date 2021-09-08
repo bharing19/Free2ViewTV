@@ -22,6 +22,9 @@ https://od.lk/s/MzJfMTcwOTQ4Mjhf/Free2ViewTV-2021-Master-PC.m3u
 Free2View TV 2021: Revised Edition 2021 NSFW (Adult 18+ content streams and exclusive VOD)
 https://od.lk/s/MzJfMTcwMzY0ODlf/Free2ViewTV-2021-Master-NSFW.m3u
 
+Free2View TV 2021: Revised Edition 2021 NSFW (for PC users- removes any notations that prevents some PC apps to work)
+https://od.lk/s/MzJfMTc2NDU0OTdf/Free2ViewTV-2021-Master-PC-NSFW.m3u
+
 The OLD m3u documents will be updated with the new revised playlist and I will keep the old URL's live in this github for a while longer, but please update your streaming players with the new remote URL's above to avoid any interruptions.
 
 *** PLEASE NOTE *** 
