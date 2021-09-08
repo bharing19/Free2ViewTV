@@ -38,8 +38,30 @@
 #                     https://pluto.tv/live-tv/ and https://stirr.com/watchnow to watch their live streams at any time.
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
+# 
+# 
+# This changelog will continue (for the sake of keeping a historical record of Free2View TV Updates), even though the new revised
+# list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# UPDATE: 9/08/21 - UPDATE: Added additional Pluto TV streams with EPG, Positiv TV with EPG, add to their respective categories.
+# REVISED EDITION - UPDATE: OFFICIAL DROP OF THE REVISED EDITION!! (9/07)
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/10/2021 ** !! See chronology of changes below...
+# !!!!!!!!!!!!!!! - !! Introducing the UPDATED AND REVISED FOR 2021 edition of the Free2View TV playlist!
+# UPDATE: 8/25/21 - Soft launch of the 'preview' edition of this playlist. Still a work in progress. Full launch expected by 9/06/21!
+# PREVIEW EDITION - UPDATE: Added more channels in "Samsung TV Plus" group (8/25). More "Sports & Recreation" channels added (8/25).
+# PREVIEW EDITION - UPDATE: Added more channels in "Samsung TV Plus" and "Vizio" groups; removed EPG data from NTV ("Canada") (8/25).
+# PREVIEW EDITION - UPDATE: Added more channels in "Movies & More" category (8/25). Added "International TV", updated streams. (8/26).
+# PREVIEW EDITION - UPDATE: Added more channels in "Movies & More" category (8/26), and "Free2View TV Select | Roku" category (8/26).
+# PREVIEW EDITION - UPDATE: More "Vizio WatchFree + Pluto TV" channels; replaced with generic logos to facilitate quick updates.
+# PREVIEW EDITION - UPDATE: Added new "Free Ad Supported TV" category, aka FAST, with Local Now Exclusive channels (8/29).
+# PREVIEW EDITION - UPDATE: Added "Vuuzle" streams and "Plex" streams to "Free Ad Supported TV" category (8/29).
+# PREVIEW EDITION - UPDATE: Added full set of France 24 streams in "Live News" category; Electric Now channel updated (8/30).
+# PREVIEW EDITION - UPDATE: Added additional channels in "Samsung TV Plus"; Portlandia added to "AMC Networks" category (8/31).
+# PREVIEW EDITION - UPDATE: Added SportsTribal.tv in the "Sports & Recreation" group (9/01).
+# PREVIEW EDITION - UPDATE: Updated Plex channels with EPG sources (9/02). "WatchYour.TV | TVS" category and channels added (9/03).
+# PREVIEW EDITION - UPDATE: Completed migration of "USA FREE TV | OTA" channels from previous version of playlist (9/05).
+# PREVIEW EDITION - UPDATE: Expanded "Plex Live TV" and set up in its own category with full EPG listings (9/05).
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/01/2021 ** !! See chronology of changes below...
 # Update: !!!!!!!!!! - MEMBERSHIP EXCLUSIVES and perks are COMING SOON with a monthly membership via Buy Me A Coffee. Stay tuned!
 # Update: !!!!!!!!!! - !! "Info | Free2View TV" - Plex group removed until further notice. Streamlining category, locating new sources.
