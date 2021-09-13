@@ -44,6 +44,10 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# UPDATE: 9/12/21 - UPDATE: New streams / updated streams to "Plex Live TV" and "Samsung TV Plus".
+# UPDATE: 9/12/21 - NEW CHANNEL ADDED: French-Canadian channel TVA (Alternate) added to "Canada" category.
+# UPDATE: 9/12/21 - NEW CATEGORY: "Free Live Radio" category: local live radio, news radio, novelty & Old Time Radio, and more.
+# UPDATE: 9/09/21 - NEW CHANNELS: Added new Kids' Pluto TV channels with EPG in "Vizio WatchFree + Pluto TV" category.
 # UPDATE: 9/08/21 - UPDATE: Added additional Pluto TV streams with EPG, Positiv TV with EPG, add to their respective categories.
 # REVISED EDITION - UPDATE: OFFICIAL DROP OF THE REVISED EDITION!! (9/07)
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/10/2021 ** !! See chronology of changes below...
