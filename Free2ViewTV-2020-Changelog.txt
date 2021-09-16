@@ -44,6 +44,9 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# UPDATE: 9/15/21 - NEW CATEGORY: "Ambient TV" - Sound Optional! Great for office screens at home or for your business!
+# UPDATE: 9/15/21 - UPDATE: AmericaTeve | Roku, DocuBox | Vuuzle, added to "Free Ad Supported TV"; streams updated in same group.
+# UPDATE: 9/13/21 - NEW VOD ADDED: Additional VOD media has been added to the NSFW edition of the playlist.
 # UPDATE: 9/12/21 - UPDATE: New streams / updated streams to "Plex Live TV" and "Samsung TV Plus".
 # UPDATE: 9/12/21 - NEW CHANNEL ADDED: French-Canadian channel TVA (Alternate) added to "Canada" category.
 # UPDATE: 9/12/21 - NEW CATEGORY: "Free Live Radio" category: local live radio, news radio, novelty & Old Time Radio, and more.
