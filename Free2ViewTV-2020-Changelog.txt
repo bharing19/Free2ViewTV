@@ -44,6 +44,15 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# 9/19/21 - CHANNEL UPDATE: Updated stream for Knowledge Network in "Canada" category; added some CBC/ICI duplicates.
+# 9/19/21 - NEW CHANNELS ADDED: Live streams from Australia added as a sub-category in "International TV".
+# 9/19/21 - NEW / UPDATE: Updated streams for Russia Today channels, added new RT Documentary, "International TV" group.
+# 9/19/21 - NEW CHANNELS ADDED: Law & Crime, Lively Place, Loop Music Videos added to "Plex Live TV" category, with EPG.
+# 9/19/21 - CHANNELS REMOVED: "Vizio WatchFree + Pluto TV": Removed Adventure Sports Network, Law & Crime (dead links).
+# 9/19/21 - CHANNELS ADDED: "Vizio WatchFree + Pluto TV": Outside TV+, Pac 12 Insider. "Samsung TV Plus": CrimeTime TV added.
+# 9/18/21 - UPDATE: Added KQED TV and Radio streams in "PBS (Geo-USA) | PBS + NPR".
+# 9/18/21 - MINOR UPDATE: Updated some formatting of some #EXTINF tags in several categories.
+# CHANGELOG FORMAT CHANGE BEGINS ABOVE TO ALLOW FOR LENGTHIER INFORMATION
 # UPDATE: 9/15/21 - NEW CATEGORY: "Ambient TV" - Sound Optional! Great for office screens at home or for your business!
 # UPDATE: 9/15/21 - UPDATE: AmericaTeve | Roku, DocuBox | Vuuzle, added to "Free Ad Supported TV"; streams updated in same group.
 # UPDATE: 9/13/21 - NEW VOD ADDED: Additional VOD media has been added to the NSFW edition of the playlist.
